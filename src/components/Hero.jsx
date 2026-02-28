@@ -113,7 +113,7 @@ const Hero = () => {
                 />
 
 
-                <div className='w-full h-44 flex justify-start items-center gap-5 absolute top-[38%] overflow-hidden bg-gray-950'>
+                <div className='w-full h-44 flex justify-start text-gray-950 items-center gap-5 absolute top-[38%] overflow-hidden bg-gray-950'>
 
 
 
